@@ -1,7 +1,3 @@
 good morning
 
-<<<<<<< Updated upstream
-good
-=======
 morning
->>>>>>> Stashed changes
